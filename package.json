@@ -13,12 +13,12 @@
         {
             "displayName": "Built-in Render Pipeline Sample",
             "description": "Sample scene and assets for the Built-in Render Pipeline.",
-            "path": "Samples~/Scenes/Built-in Sample"
+            "path": "Samples~/Built-in Render Pipeline Sample"
         },
         {
             "displayName": "Universal Render Pipeline Sample",
             "description": "Sample scene and assets for URP.",
-            "path": "Samples~/Scenes/URP Sample"
+            "path": "Samples~/Universal Render Pipeline Sample"
         }
     ]
 }
