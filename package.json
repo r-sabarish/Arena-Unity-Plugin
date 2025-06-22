@@ -1,0 +1,24 @@
+{
+    "name": "com.r-sabarish.arena-unity-plugin",
+    "version": "1.0.0",
+    "displayName": "Arena Unity Plugin",
+    "description": "A Unity plugin with runtime and editor features, plus sample scenes.",
+    "unity": "2020.3",
+    "author": {
+        "name": "Sabarish Ramasamy",
+        "email": "sabarish.ach@gmail.com",
+        "url": "https://github.com/r-sabarish"
+    },
+    "samples": [
+        {
+            "displayName": "Built-in Render Pipeline Sample",
+            "description": "Sample scene and assets for the Built-in Render Pipeline.",
+            "path": "Samples~/Built-in Sample"
+        },
+        {
+            "displayName": "Universal Render Pipeline Sample",
+            "description": "Sample scene and assets for URP.",
+            "path": "Samples~/URP Sample"
+        }
+    ]
+}
