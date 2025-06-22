@@ -1,6 +1,6 @@
 {
     "name": "com.r-sabarish.arena-unity-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Arena Unity Plugin",
     "description": "A Unity plugin with runtime and editor features, plus sample scenes.",
     "unity": "2020.3",
