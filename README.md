@@ -4,7 +4,7 @@ This Unity plugin allows you to send reward data from a Unity WebGL build to the
 
 ## How to Use
 
-1. Copy the Git repository URL: 
+1. Copy this Git repository URL (with release) : https://github.com/r-sabarish/Arena-Unity-Plugin.git#v1.0.1
 2. Open your Unity project.
 3. Go to **Window** → **Package Manager**.
 4. Click the **+** button (top left corner) → **Add package from Git URL...**
