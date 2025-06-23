@@ -2,7 +2,7 @@
 
 This Unity plugin allows you to send reward data from a Unity WebGL build to the Arena Web platform.
 
-## 🔧 How to Use
+## How to Use
 
 1. Copy the Git repository URL: 
 2. Open your Unity project.
@@ -18,18 +18,18 @@ This Unity plugin allows you to send reward data from a Unity WebGL build to the
 
 ---
 
-## ⚙️ Plugin Setup
+## Plugin Setup
 
 After importing the plugin:
 
 - Navigate to **Arena** → **Tools** → **Setup Arena (quick setup)**
 - This will automatically add the **Arena Manager Bridge** and other required components to your current scene.
 
-> ✅ This is required for Arena integration to function correctly.
+> **This is required for Arena integration to function correctly**
 
 ---
 
-## 🧠 Game Reward Logic
+## Game Reward Logic
 
 You **must implement your own game reward logic** using the `ArenaManager.Instance.EndGame()` method. Here's a simple example:
 
